@@ -1,1 +1,0 @@
-Readme for VehicleDetection\Software\Test Directory
